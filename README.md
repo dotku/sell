@@ -19,3 +19,5 @@ For gitters can easily fork and sale their product online.
 
 ### By picking up
 Only Seller can mark the item as sold or unlist/relist/archive item from selling.
+
+** In anycase we need stuff to get involed, go through from email.
